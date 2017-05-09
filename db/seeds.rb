@@ -21,19 +21,3 @@ Brand.create([
     name: "New Balance‎"
   }
 ])
-
-#Sneaker.create([
-#  {
-#    model:'SUPERSTAR',
-#    sex: 'unisex',
-#    price: 60
-#  }, {
-#    model:'CHUCK TAYLOR ALL STAR LOW TOP',
-#    sex: 'male',
-#    price: 50
-#  }, {
-#    model:'AIR SOCK RACER ULTRA FLYKNIT',
-#    sex: 'male',
-#    price: 120
-#])
-#
